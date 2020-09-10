@@ -65,5 +65,3 @@
 [website]: https://mondemsuraj.com
 [instagram]: https://www.instagram.com/dreaming_since1997/
 [linkedin]: https://www.linkedin.com/in/surajmondem/
-
-https://github-readme-stats.surajmondem.vercel.app/
