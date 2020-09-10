@@ -1,5 +1,5 @@
 # Hi 👋, I'm [Suraj mondem](https://mondemsuraj.com) 
-<h3 align="center">A passionate Software developer </h3>
+### A passionate Software developer 
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=surajmondem" alt="surajmondem" /> 
@@ -7,7 +7,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/SurajMondem/SurajMondem/blob/master/code.gif?raw=true" width="400" height="256" />
   
-**Talking about Personal Stuffs:**
+### **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on **improving my Algorithms and Data Structures Skills**
 
