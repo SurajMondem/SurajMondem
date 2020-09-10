@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Suraj mondem][website]</h1>
+<h1 align="center">Hi 👋, I'm [Suraj mondem](https://mondemsuraj.com)</h1>
 <h3 align="center">A passionate Software developer </h3>
 
 <p align="left"> 
@@ -76,4 +76,3 @@
 
 
 
-[website]: https://mondemsuraj.com
