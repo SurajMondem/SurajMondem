@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Computer Vision**
 
-- 📝 [Resume](https://drive.google.com/file/d/1qijUA4clzEi02GPVlVV3ETnxoFjfG2_x/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1bxQ3JtJs6kDtlLNxGI1h9lUnjUnSEoed/view?usp=sharing)
 
 - 💬 Ask me about **anything, I am happy to help**
 
