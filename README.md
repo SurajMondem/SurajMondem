@@ -53,7 +53,7 @@
 <h3 align="center"> Other Skills </h3>
 <p align="center">    
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>    
+  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/AWS.svg" alt="aws" width="40" height="40"/>    
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
