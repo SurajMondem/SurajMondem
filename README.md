@@ -10,7 +10,7 @@
   
 ### **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on **improving my Algorithms and Data Structures Skills**
+- 🔭 I’m currently working on **Refactoring Codes and Improving Coding Standards**
 
 - 🌱 I’m currently learning **Computer Vision**
 
