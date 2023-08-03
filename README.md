@@ -8,17 +8,8 @@
 
 <img align="right" alt="GIF" src="https://github.com/SurajMondem/SurajMondem/blob/master/code.gif?raw=true" width="400" height="256" />
   
-### **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on **Refactoring Codes and Improving Coding Standards**
-
-- 🌱 I’m currently learning **Computer Vision**
-
-- 📝 [Resume](https://drive.google.com/file/d/1bxQ3JtJs6kDtlLNxGI1h9lUnjUnSEoed/view?usp=sharing)
-
-- 💬 Ask me about **anything, I am happy to help**
-
-- 📫 How to reach me **surajmondem@gmail.com**
+📫 How to reach me **surajmondem@gmail.com**
 
 <br />
 
