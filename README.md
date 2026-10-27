@@ -1,66 +1,76 @@
-# Hi 👋, I'm [Suraj mondem](https://mondemsuraj.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SurajMondem/SurajMondem/master/assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SurajMondem/SurajMondem/master/assets/header-light.svg">
+  <img alt="Suraj Mondem. Full-stack engineer. Event-driven backends, rules engines, and the React screens people use on top." src="https://raw.githubusercontent.com/SurajMondem/SurajMondem/master/assets/header-light.svg" width="100%">
+</picture>
 
-### A passionate Software developer
-
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=surajmondem" alt="surajmondem" /> 
-</p>
-
-<img align="right" alt="GIF" src="https://github.com/SurajMondem/SurajMondem/blob/master/code.gif?raw=true" width="400" height="256" />
-  
-
-📫 How to reach me **surajmondem@gmail.com**
-
-<br />
-
-<h3 align="center"> Programming Languages </h3>
-<p align="center">
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/C.svg" alt="c" width="40" height="40"/> 
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/CPP.svg" alt="cplusplus" width="40" height="40"/>  
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/Java.svg" alt="java" width="40" height="40"/> 
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/JS.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/Python.svg" alt="python" width="40" height="40"/>
-</p>
-<h3 align="center"> Frontend Development </h3>
-<p align="center">    
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/CSS.svg" alt="css3" width="40" height="40"/>   
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/HTML.svg" alt="html5" width="40" height="40"/>  
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/React.svg" alt="react" width="40" height="40"/> 
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/Sass.svg" alt="sass" width="40" height="40"/>  
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/Material.svg" alt="materialize" width="40" height="40"/>   
-</p>
-<h3 align="center"> Backend Development </h3>
-<p align="center">    
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/Express.svg" alt="express" width="40" height="40"/>  
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/NodeJs.svg" alt="nodejs" width="40" height="40"/>  
-</p>
-<h3 align="center"> Database </h3>
-<p align="center">     
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/MongoDB.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/Mysql.svg" alt="mysql" width="40" height="40"/>  
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/PostgresSql.svg" alt="postgresql" width="40" height="40"/>  
-</p>
-<h3 align="center"> Other Skills </h3>
-<p align="center">    
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/ChartJs.svg" alt="chartjs" width="40" height="40"/> 
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/AWS.svg" alt="aws" width="40" height="40"/>    
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/Figma.svg" alt="figma" width="40" height="40"/> 
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/GCP.svg" alt="gcp" width="40" height="40"/> 
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/Git.svg" alt="git" width="40" height="40"/> 
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/Linux.svg" alt="linux" width="40" height="40"/> 
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/OpenCV.svg" alt="opencv" width="40" height="40"/> 
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/Photoshop.svg" alt="photoshop" width="40" height="40"/> 
-  <img src="https://gist.githubusercontent.com/SurajMondem/1288fd40a9f30f54eac68d9aa41958a8/raw/a33e71cf94598760634efb862a36925c589b91a3/Pug.svg" alt="pug" width="40" height="40"/>   
-</p>
-<br/>
-<p align="center">
-  <img align="center" alt="Suraj Mondem's Github Stats" src="https://github-readme-stats.surajmondem.vercel.app/api?username=surajmondem&show_icons=true&hide_border=true&theme=tokyonight" />
+<p>
+  <a href="https://www.mondemsuraj.com"><img alt="Website" src="https://img.shields.io/badge/mondemsuraj.com-1f2328?style=flat-square"></a>
+  <a href="https://www.mondemsuraj.com/writing"><img alt="Writing" src="https://img.shields.io/badge/Writing-1f2328?style=flat-square&logo=rss&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/surajmondem"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:surajmondem@gmail.com"><img alt="Email" src="https://img.shields.io/badge/surajmondem@gmail.com-c2410c?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://leetcode.com/surajmondem"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-1f2328?style=flat-square&logo=leetcode&logoColor=ffa116"></a>
 </p>
 
-<p align="center">
-<a href="https://linkedin.com/in/surajmondem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="surajmondem" height="30" width="30" /></a>
-<a href="https://instagram.com/dreaming_since1997" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dreaming_since1997" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/surajmondem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="surajmondem" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/surajmondem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="surajmondem" height="30" width="30" /></a>
+I replaced 40+ API routes in a healthcare claims app with one config-driven API layer, so a new screen needs a config entry instead of a new endpoint.
+
+That's the kind of work I like: systems where the next change is cheap. I've spent 4+ years building them across healthcare, insurance and title.
+
+## Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[posthouse](https://github.com/SurajMondem/posthouse)** · open source
+
+Turns a written post into a narrated, captioned video. One continuous stage, a camera that moves between ideas, visuals timed to the spoken word. Narration from ElevenLabs, a local voice model, or no voice at all.
+
+<sub>Remotion · JavaScript · MIT</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**Vaahan** · trucking compliance, 2026
+
+As technical cofounder I built the platform: an event-driven AWS pipeline over Samsara ELD data, a rules engine for federal hours-of-service law, the dashboard and CI/CD. Its warnings flagged likely violations a median 7.7 minutes ahead.
+
+<sub>AWS SAM · Lambda · SQS/SNS · PostgreSQL · React</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Config-driven claims platform** · healthcare
+
+Split a 12-tab claims app into a host and 11 independently deployed microfrontends. Behind it, a FastAPI layer that builds its PostgreSQL queries from config.
+
+<sub>FastAPI · DynamoDB · React · Module Federation</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**Change-data-capture audit pipeline** · title insurance
+
+Built the rules-driven enricher in a Debezium and Kafka pipeline on Kubernetes. Rules live in tables and reload every 60 seconds, so a new audit table is a config change, not a deploy.
+
+<sub>Kafka Connect · Spring Boot · Redis · AKS</sub>
+
+</td>
+</tr>
+</table>
+
+## Writing
+
+**[Beyond First Paint](https://www.mondemsuraj.com/writing/beyond-first-paint)**. What a Lighthouse score actually measures, with 9 interactive demos. The lab said my homepage loads in 3.3 s. Real visitors saw 1.5 s.
+
+More at [mondemsuraj.com/writing](https://www.mondemsuraj.com/writing).
+
+## Stack
+
+<p>
+  <img alt="Python, TypeScript, React, Next.js, Angular, FastAPI, Java, Spring, Node.js, PostgreSQL, Redis, Kafka, AWS, Azure, Docker, Kubernetes, GitHub Actions" src="https://skillicons.dev/icons?i=py,ts,react,nextjs,angular,fastapi,java,spring,nodejs,postgres,redis,kafka,aws,azure,docker,kubernetes,githubactions&perline=17" height="40">
 </p>
+
+<sub>MS Computer Science, University of Colorado Boulder · BS Computer Science, San Francisco State University · AWS Certified Solutions Architect, Associate</sub>
